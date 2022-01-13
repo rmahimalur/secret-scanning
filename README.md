@@ -1,1 +1,2 @@
 # secret-scanning
+Git_Token=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
