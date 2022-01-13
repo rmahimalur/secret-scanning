@@ -1,2 +1,0 @@
-# secret-scanning
-Git_Token=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
